@@ -1,0 +1,21 @@
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
+ESP32SERVO BY KEVIN
+FIREBASE ESP32 CLIENT BY MOBIZT
+
+User
+    uid: string
+    isAdmin: boolean
+    isAuth: boolean
+    expirationDate: timestamp
+    createdTokens: array(string)
+    usedTokens: array(string)
+
+Token
+    id: string
+    owner: string
+    user: string
+    used: boolean
+    expirationDate: timestamp
+    isExpired: boolean

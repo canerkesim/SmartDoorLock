@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050597292265",
+    "firebase_url": "https://servo-feea4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "servo-feea4",
+    "storage_bucket": "servo-feea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050597292265:android:99aeb8164f3741c12a1878",
+        "android_client_info": {
+          "package_name": "servomotor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050597292265-traqgrdki1f05cj5odp5d0egioo3orks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2W1X9DNFkIcsSyYxnx3bgTlu8T_v9KqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050597292265-traqgrdki1f05cj5odp5d0egioo3orks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
